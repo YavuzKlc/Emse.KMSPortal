@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emse.KMSPortal", "Emse.KMSPortal\Emse.KMSPortal.csproj", "{E16589CA-F373-48A2-AE8E-6176E5B96DE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emse.KMSPortal.BIZ", "Emse.KMSPortal.BIZ\Emse.KMSPortal.BIZ.csproj", "{A7D4C7B3-9ED4-4CC4-9F2D-71E5BB9C540D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emse.KMSPortal.Data.EF", "Emse.KMSPortal.Data.EF\Emse.KMSPortal.Data.EF.csproj", "{2A9F4C3A-AF8A-4070-A1FD-DFEF0FBA6615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emse.Framework", "Emse.Framework\Emse.Framework.csproj", "{9D0A0FC1-8056-41CA-8BA1-BC180EC698DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emse.KMSPortal.Data.Model", "Emse.KMSPortal.Data.Model\Emse.KMSPortal.Data.Model.csproj", "{7C3ECE18-DF7D-442E-A720-5C0C2CB160FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E16589CA-F373-48A2-AE8E-6176E5B96DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16589CA-F373-48A2-AE8E-6176E5B96DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E16589CA-F373-48A2-AE8E-6176E5B96DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E16589CA-F373-48A2-AE8E-6176E5B96DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D4C7B3-9ED4-4CC4-9F2D-71E5BB9C540D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D4C7B3-9ED4-4CC4-9F2D-71E5BB9C540D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D4C7B3-9ED4-4CC4-9F2D-71E5BB9C540D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D4C7B3-9ED4-4CC4-9F2D-71E5BB9C540D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9F4C3A-AF8A-4070-A1FD-DFEF0FBA6615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9F4C3A-AF8A-4070-A1FD-DFEF0FBA6615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9F4C3A-AF8A-4070-A1FD-DFEF0FBA6615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9F4C3A-AF8A-4070-A1FD-DFEF0FBA6615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D0A0FC1-8056-41CA-8BA1-BC180EC698DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D0A0FC1-8056-41CA-8BA1-BC180EC698DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D0A0FC1-8056-41CA-8BA1-BC180EC698DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D0A0FC1-8056-41CA-8BA1-BC180EC698DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C3ECE18-DF7D-442E-A720-5C0C2CB160FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3ECE18-DF7D-442E-A720-5C0C2CB160FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3ECE18-DF7D-442E-A720-5C0C2CB160FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3ECE18-DF7D-442E-A720-5C0C2CB160FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5F97A0A-1F74-463A-8C83-F480C236593E}
+	EndGlobalSection
+EndGlobal
